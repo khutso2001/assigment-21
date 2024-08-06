@@ -1,0 +1,25 @@
+.todoList li {
+  list-style: none;
+  border: 1px solid gray;
+  width: 400px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.todoList {
+  padding: 0;
+}
+.done-undo-button,
+.delete-button {
+  border-radius: 10px;
+  border: none;
+  padding: 8px;
+  color: white;
+}
+.done-undo-button {
+  margin: 0px 10px 0px 20px;
+  background-color: green;
+}
+.delete-button {
+  background-color: red;
+}

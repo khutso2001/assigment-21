@@ -1,0 +1,16 @@
+.addInput {
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  margin-right: 10px;
+  border: 1px solid rgb(13, 159, 13);
+  padding-left: 10px;
+}
+.addButton {
+  width: 70px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid green;
+  background-color: green;
+  color: white;
+}
